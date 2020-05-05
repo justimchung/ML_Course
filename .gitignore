@@ -1,0 +1,45 @@
+剪刀石頭布/keras_model.h5
+剪刀石頭布/labels.txt
+微軟認知服務/于文文.jpg
+微軟認知服務/認知服務解答.pptx
+微軟認知服務/活頁簿1.xlsx
+微軟認知服務/認知服務FaceAPI.pdf
+微軟認知服務/法國聖米歇爾山.png
+微軟認知服務/法國財政部長.png
+微軟認知服務/人群.jpg
+ai-car/ai-car/.gitignore
+ai-car/ai-car/README.md
+ai-car/ai-car/keras_model/model.json
+ai-car/ai-car/keras_model/weights.h5
+ai-car/ai-car/keras_source/keras_car.py
+ai-car/ai-car/keras_source/keras_video.py
+ai-car/ai-car/keras_source/model.json
+ai-car/ai-car/keras_source/README.md
+ai-car/ai-car/keras_source/train_keras_model.py
+ai-car/ai-car/keras_source/weights.h5
+ai-car/ai-car/sample_video/example_1.mp4
+ai-car/ai-car/tf_ncsdk_model/model.graph
+ai-car/ai-car/tf_ncsdk_model/converted_model/checkpoint
+ai-car/ai-car/tf_ncsdk_model/converted_model/model.data-00000-of-00001
+ai-car/ai-car/tf_ncsdk_model/converted_model/model.index
+ai-car/ai-car/tf_ncsdk_model/converted_model/model.meta
+ai-car/ai-car/tf_ncsdk_model/saved_model/1535729967/saved_model.pb
+ai-car/ai-car/tf_ncsdk_model/saved_model/1535729967/variables/variables.data-00000-of-00001
+ai-car/ai-car/tf_ncsdk_model/saved_model/1535729967/variables/variables.index
+ai-car/ai-car/tf_ncsdk_source/convert_tf_model.py
+ai-car/ai-car/tf_ncsdk_source/movidius_car.py
+ai-car/ai-car/tf_ncsdk_source/movidius_video.py
+ai-car/ai-car/tf_ncsdk_source/README.md
+ai-car/ai-car/tf_ncsdk_source/train_tensorflow_model.py
+ai-car/ai-car/utility_source/data_collect.py
+ai-car/ai-car/utility_source/line_follower.py
+ai-car/ai-car/utility_source/README.md
+ai-car/ai-car/utility_source/ultrasonic_car.py
+CustomVision.pptx
+AI Problem domain(週五).pptx
+資料探勘導論課程簡介.pptx
+4_CustomVision.pptx
+3_Pi Control Car and Live classifier.pptx
+1_AI Introduction.pptx
+OneDrive-2020-03-03.zip
+.vscode
